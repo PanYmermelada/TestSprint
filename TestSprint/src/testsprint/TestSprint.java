@@ -16,6 +16,10 @@ public class TestSprint {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola git");
+        System.out.println("hola git");
+        System.out.println("hola git");
+        System.out.println("hola git");
     }
     
 }
